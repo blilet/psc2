@@ -1,4 +1,4 @@
-pyannote == 3.0
+pyannote.audio == 3.0
 datasets 
 #Install pyannote.audio 3.0 with pip install pyannote.audio
 #Accept pyannote/segmentation-3.0 user conditions
