@@ -50,7 +50,7 @@ The architecture of our model is a sequential design comprising five hidden dens
 We compile the model using the "binary_crossentropy" loss function, which is appropriate for binary classification tasks like ours.
 
 ### Results
-Our model achieves an accuracy of 88%, a result we find highly satisfactory for the objectives of our study.
+Our model achieves an accuracy of 89%, a result we find highly satisfactory for the objectives of our study.
 
 ### Execution Requirements for "DeepGender.ipynb"
 For the successful execution of the "DeepGender.ipynb" notebook, it is essential that the "Balanced_data.csv" file, obtained from the "Balancing.ipynb" notebook, be placed in the directory "/Users/mac/Desktop/data/data". The "data" folder will contain all the results, training, and test data.
