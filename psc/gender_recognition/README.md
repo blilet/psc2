@@ -24,7 +24,7 @@ To ensure data quality and balance, we perform the following steps:
 All the above modifications are executed in the “Balancing.ipynb” notebook. This notebook also includes all necessary installation steps.
 
 ### Temporary Note
-**Important:** For the proper execution of the “Balancing.ipynb” notebook, ensure that the dataset is downloaded as a folder named "archive" and placed on the desktop. Future updates to the code will aim to enhance its flexibility regarding data location.
+**Important:** For the proper execution of the “Balancing.ipynb” notebook, ensure that the dataset is downloaded as a folder named "archive" and placed on the desktop. The notebook currently contains certain methods and directions that did not yield the expected results. These have been retained temporarily for review and learning purposes. Future updates to the code will aim to enhance its flexibility regarding data location and refine the methodologies used.
 
 ---
 
