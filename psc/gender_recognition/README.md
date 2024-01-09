@@ -28,3 +28,37 @@ All the above modifications are executed in the “Balancing.ipynb” notebook. 
 
 ---
 
+---
+
+---
+
+## Model Overview
+
+### Approach
+In this study, we employ an Artificial Neural Network (ANN) model to classify the gender of audio samples. Our primary focus is on utilizing Mel Spectrogram Frequency features for this classification task. Although we experimented with various other feature types, such as MFCC and Tonnetz, Mel spectrogram analysis consistently yielded the most promising results.
+
+### Data Preparation
+The initial step involves balancing the data, which is then stored in a "Balanced_data.csv" file. Following this, we extract the audio features from each sample. It's important to note that this feature extraction process is the most time-consuming step in our workflow.
+
+### Feature Extraction and Model Training
+All processes related to feature extraction and model training are comprehensively detailed in the "DeepGender.ipynb" notebook.
+
+### Model Architecture
+The architecture of our model is a sequential design comprising five hidden dense layers. These layers range from 256 units down to 64 units, each utilizing the "ReLU" activation function. The output layer is a sigmoid layer, designed to interpret the results as binary classifications: 0 representing female and 1 representing male. The choice of this model architecture was initially arbitrary, but it has demonstrated effective results in our tests.
+
+### Compilation
+We compile the model using the "binary_crossentropy" loss function, which is appropriate for binary classification tasks like ours.
+
+### Results
+Our model achieves an accuracy of 88%, a result we find highly satisfactory for the objectives of our study.
+
+### Execution Requirements for "DeepGender.ipynb"
+For the successful execution of the "DeepGender.ipynb" notebook, it is essential that the "Balanced_data.csv" file, obtained from the "Balancing.ipynb" notebook, be placed in the directory "/Users/mac/Desktop/data/data". The "data" folder will contain all the results, training, and test data.
+
+### Temporary Note
+**Important:** The "DeepGender.ipynb" notebook currently includes various experimental approaches and personal comments that did not yield optimal results. These sections are retained temporarily for review and learning purposes. We plan to refine and streamline the notebook in future updates.
+
+---
+
+
+---
