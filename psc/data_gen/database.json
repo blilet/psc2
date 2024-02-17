@@ -1,0 +1,1080 @@
+[
+    {
+        "path": [
+            "/Users/timou/outputs/25M-97F_0100000000000100000000000000100.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 164,
+        "num_interruptions": 3,
+        "interruptions": [
+            [
+                7,
+                11,
+                "F",
+                "N"
+            ],
+            [
+                79,
+                82,
+                "F",
+                "N"
+            ],
+            [
+                150,
+                154,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/12M-89M_0000000000000000000000000000001.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 192,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                191,
+                192,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/43F-53M_0000000000000000000001000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 135,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                95,
+                101,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/13M-59F_0000000100100000000001000000001.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 56,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                12,
+                15,
+                "F",
+                "N"
+            ],
+            [
+                19,
+                22,
+                "F",
+                "N"
+            ],
+            [
+                38,
+                41,
+                "F",
+                "N"
+            ],
+            [
+                53,
+                56,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/24M-190M_0000000100000010000010000000100.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 196,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                49,
+                54,
+                "M",
+                "N"
+            ],
+            [
+                97,
+                102,
+                "M",
+                "N"
+            ],
+            [
+                128,
+                133,
+                "M",
+                "N"
+            ],
+            [
+                178,
+                183,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/5F-147F_0001000000000000000000000000000.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 154,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                11,
+                17,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/42F-35F_0000000000011000001000000010000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 190,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                70,
+                74,
+                "F",
+                "N"
+            ],
+            [
+                74,
+                79,
+                "F",
+                "N"
+            ],
+            [
+                107,
+                111,
+                "F",
+                "N"
+            ],
+            [
+                154,
+                159,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/11M-41M_0110000000000000010000000000100.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 116,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                3,
+                7,
+                "M",
+                "N"
+            ],
+            [
+                7,
+                11,
+                "M",
+                "N"
+            ],
+            [
+                64,
+                68,
+                "M",
+                "N"
+            ],
+            [
+                105,
+                109,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/44F-29F_0000000000000000000001000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 134,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                89,
+                91,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/3F-172M_0000000000000000000001001001001.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 146,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                89,
+                96,
+                "M",
+                "N"
+            ],
+            [
+                103,
+                110,
+                "M",
+                "N"
+            ],
+            [
+                122,
+                129,
+                "M",
+                "N"
+            ],
+            [
+                138,
+                146,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/28F-171F_0000000010000000000000000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 239,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                41,
+                48,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/25M-165F_0000000000001000000000001001000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 166,
+        "num_interruptions": 3,
+        "interruptions": [
+            [
+                73,
+                77,
+                "F",
+                "N"
+            ],
+            [
+                135,
+                139,
+                "F",
+                "N"
+            ],
+            [
+                147,
+                150,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/26M-62M_0100000000000000100010000000001.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 227,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                9,
+                13,
+                "M",
+                "N"
+            ],
+            [
+                126,
+                131,
+                "M",
+                "N"
+            ],
+            [
+                153,
+                157,
+                "M",
+                "N"
+            ],
+            [
+                223,
+                227,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/10M-179M_0000000000000000000000000100000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 126,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                101,
+                103,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/26M-213F_0000000000000000000000000010000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 241,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                209,
+                213,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/42F-210M_1000000000000000001000000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 196,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                0,
+                6,
+                "M",
+                "N"
+            ],
+            [
+                110,
+                117,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/4F-4F_0000000001010001000000000000001.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 187,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                57,
+                63,
+                "F",
+                "N"
+            ],
+            [
+                71,
+                76,
+                "F",
+                "N"
+            ],
+            [
+                95,
+                101,
+                "F",
+                "N"
+            ],
+            [
+                182,
+                187,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/17M-81F_0000000000000000000000000001000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 192,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                171,
+                174,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/34F-5F_0100000000000000000100000000100.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 79,
+        "num_interruptions": 3,
+        "interruptions": [
+            [
+                2,
+                10,
+                "F",
+                "N"
+            ],
+            [
+                44,
+                52,
+                "F",
+                "N"
+            ],
+            [
+                68,
+                76,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/15F-165F_0000100000100000000000000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 166,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                27,
+                31,
+                "F",
+                "N"
+            ],
+            [
+                63,
+                66,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/36M-200F_0000001000000000001000000000110.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 198,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                34,
+                42,
+                "F",
+                "N"
+            ],
+            [
+                111,
+                118,
+                "F",
+                "N"
+            ],
+            [
+                174,
+                182,
+                "F",
+                "N"
+            ],
+            [
+                182,
+                189,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/19F-206F_0000000000000001000000000000000.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 235,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                116,
+                124,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/0M-67F_1000001101000000000000000000000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 165,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                0,
+                8,
+                "F",
+                "N"
+            ],
+            [
+                27,
+                35,
+                "F",
+                "N"
+            ],
+            [
+                35,
+                44,
+                "F",
+                "N"
+            ],
+            [
+                47,
+                55,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/2F-119F_1000000000000000000000000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 145,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                0,
+                7,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/2F-119F_0000100000000001000010000000001.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 158,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                18,
+                26,
+                "F",
+                "N"
+            ],
+            [
+                76,
+                83,
+                "F",
+                "N"
+            ],
+            [
+                103,
+                110,
+                "F",
+                "N"
+            ],
+            [
+                150,
+                158,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/11M-177F_0000000000000010000110000010000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 120,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                51,
+                56,
+                "F",
+                "N"
+            ],
+            [
+                71,
+                76,
+                "F",
+                "N"
+            ],
+            [
+                76,
+                81,
+                "F",
+                "N"
+            ],
+            [
+                100,
+                105,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/44F-120M_0000000000000000000100000100000.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 138,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                82,
+                84,
+                "M",
+                "N"
+            ],
+            [
+                109,
+                111,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/31F-66M_0000000000000010000000000001000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 160,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                73,
+                76,
+                "M",
+                "N"
+            ],
+            [
+                140,
+                143,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/1M-14F_0000001000000000000000000010000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 155,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                29,
+                37,
+                "F",
+                "N"
+            ],
+            [
+                124,
+                131,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/21M-139M_0000000000000000000001001000000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 96,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                62,
+                68,
+                "M",
+                "N"
+            ],
+            [
+                71,
+                77,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/23M-123F_0011000010000000001000000000000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 171,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                9,
+                14,
+                "F",
+                "N"
+            ],
+            [
+                14,
+                18,
+                "F",
+                "N"
+            ],
+            [
+                38,
+                43,
+                "F",
+                "N"
+            ],
+            [
+                86,
+                91,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/25M-104M_0001001000000000100000001000000.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 168,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                16,
+                22,
+                "M",
+                "N"
+            ],
+            [
+                35,
+                41,
+                "M",
+                "N"
+            ],
+            [
+                90,
+                97,
+                "M",
+                "N"
+            ],
+            [
+                134,
+                140,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/14F-41M_0000010000000000000000000000001.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 199,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                33,
+                37,
+                "M",
+                "N"
+            ],
+            [
+                195,
+                199,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/20M-133F_0010000000000000000000000000000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 144,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                11,
+                15,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/20M-49F_0000000101000000000000000000100.wav"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 143,
+        "num_interruptions": 3,
+        "interruptions": [
+            [
+                42,
+                45,
+                "F",
+                "N"
+            ],
+            [
+                53,
+                56,
+                "F",
+                "N"
+            ],
+            [
+                123,
+                127,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/37M-106M_0000100001000000100000001000000.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 196,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                27,
+                31,
+                "M",
+                "N"
+            ],
+            [
+                57,
+                60,
+                "M",
+                "N"
+            ],
+            [
+                107,
+                110,
+                "M",
+                "N"
+            ],
+            [
+                153,
+                156,
+                "M",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/19F-156F_0000010000000000000000000000000.wav",
+            "-"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 241,
+        "num_interruptions": 1,
+        "interruptions": [
+            [
+                40,
+                50,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/18M-182F_0000000000001000000000000100010.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 81,
+        "num_interruptions": 3,
+        "interruptions": [
+            [
+                32,
+                36,
+                "F",
+                "N"
+            ],
+            [
+                64,
+                67,
+                "F",
+                "N"
+            ],
+            [
+                75,
+                79,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/44F-150F_0010000000000000001000000000000.wav"
+        ],
+        "gender": "F",
+        "start": 0,
+        "end": 148,
+        "num_interruptions": 2,
+        "interruptions": [
+            [
+                6,
+                15,
+                "F",
+                "N"
+            ],
+            [
+                83,
+                91,
+                "F",
+                "N"
+            ]
+        ]
+    },
+    {
+        "path": [
+            "/Users/timou/outputs/20M-205F_0000000010000001100000000000001.wav",
+            "-"
+        ],
+        "gender": "M",
+        "start": 0,
+        "end": 148,
+        "num_interruptions": 4,
+        "interruptions": [
+            [
+                49,
+                55,
+                "F",
+                "N"
+            ],
+            [
+                83,
+                89,
+                "F",
+                "N"
+            ],
+            [
+                89,
+                95,
+                "F",
+                "N"
+            ],
+            [
+                142,
+                148,
+                "F",
+                "N"
+            ]
+        ]
+    }
+]
