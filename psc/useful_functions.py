@@ -36,7 +36,7 @@ def extract_feature(file_name, **kwargs):
     if audio.channels == 2:  # Check if stereo and convert to mono
         audio_data = audio_data.reshape((-1, 2))
         audio_data = audio_data.mean(axis=1)
-    audio_data = audio_data.astype(np.float32) / np.iinfo(audio_data.dtype).max  # Normalize
+    audio_data = audio_data.astype(np.float32) / 32767.0  # Normalize, last edit : 06/03
 
     # Feature extraction
     result = np.array([])
